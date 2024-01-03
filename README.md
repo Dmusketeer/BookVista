@@ -11,8 +11,8 @@ Before you begin, ensure you have Node.js installed on your system.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/chrisblakely01/mern-booking-app.git
-cd mern-booking-app
+git clone https://github.com/Dmusketeer/BookVista
+cd BookVista
 ```
 
 ## Backend Configuration
@@ -80,7 +80,7 @@ cd mern-booking-app
     - Open a new terminal and navigate to the `frontend` directory.
     - Install dependencies: `npm install`.
     - Start the frontend application: `npm run dev`.
-    - The application should now be running on `http://localhost:5173` but verify this in your command line terminal  
+    - The application should now be running on `http://localhost:5174` but verify this in your command line terminal  
 
 
 ## Running Automated Tests
